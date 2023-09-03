@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zerodytrash/TikTok-Live-Connector.git"
+    "url": "git+https://github.com/Velozity/TikTok-Live-Connector.git"
   },
   "funding": [
     {
@@ -44,7 +44,7 @@
     "broadcast",
     "reader"
   ],
-  "author": "zerodytrash",
+  "author": "Velozity",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zerodytrash/TikTok-Live-Connector/issues"
